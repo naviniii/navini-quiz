@@ -1,0 +1,7 @@
+The quiz is simple! The questions will pop up and you will
+ answer the question by selecting one of the 4 options available :)
+
+Once you have selected an option, click the “Next Button” to 
+move to the next question. 
+
+There are 10 questions, are you ready to play? 
